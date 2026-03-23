@@ -1,5 +1,5 @@
 
-## 📦 Shadowrocket 配置文件 （无dns泄露）
+## 🚀 Shadowrocket 配置文件 （无dns泄露）
 
 本项目收集并整合了多个高质量规则集，用于 Shadowrocket 分流配置，支持常用服务、游戏平台、AI 应用、社交媒体等的精准识别与路由。
 
