@@ -29,7 +29,7 @@
 
 ## ⬇️ 配置文件下载
 
-https://github.com/Luna-Repo/shadow-config/releases
+[https://github.com/Luna-Repo/shadow-config/releases/download/v1.1.3/No_Leak_Config_v1.1.3.conf]
 
 ---
 
